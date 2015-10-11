@@ -1,10 +1,9 @@
 Codecov Swift Example
 =====================
 
-[![Build Status](https://travis-ci.org/codecov/example-swift.svg)](https://travis-ci.org/codecov/example-swift) [![codecov.io](http://codecov.io/github/codecov/example-swift/coverage.svg?branch=master)](http://codecov.io/github/codecov/example-swift?branch=master)
+[![Build Status](https://travis-ci.org/mgrebenets/example-swift.svg)](https://travis-ci.org/mgrebenets/example-swift) 
+[![codecov.io](http://codecov.io/github/mgrebenets/example-swift/coverage.svg?branch=master)](http://codecov.io/github/mgrebenets/example-swift?branch=master)
 
-| [https://codecov.io][1] | [@codecov][2] | [hello@codecov.io][3] |
-| ----------------------- | ------------- | --------------------- |
 
 This repository serves as an **example** on how to use [Codecov Global][4] for Swift.
 
